@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Eclipse project files
+.metadata/
+bin/
+tmp/
+
+# External dependencies
+*.jar
+
+# Javadoc
+javadoc/
+
+# Mac-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
